@@ -1,0 +1,22 @@
+table{
+    width: 400ox;
+    border-spacing:9px; 
+    margin: 0;
+    padding: 0;
+    background-color:pinkk;
+}
+h2 {
+    color: #00a3cc;
+}
+span {
+    color:#993333;
+    }
+    span1 {
+        color: red;
+        }
+    span3 {
+        color: black;
+    }
+    li{
+        margin: 10px 0;
+      }
